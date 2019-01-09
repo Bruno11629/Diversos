@@ -8,6 +8,6 @@ mcmc
 Projeto ME710
 lendodados
 
-#trabalho que utiliza gamless para determinar limite do observavel
+#trabalho que utiliza regressão beta para determinar limite do observavel
 Projeto ME 810 
-JND
+JND's
